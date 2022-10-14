@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+#nav{
+
+width: 100%;
+position: fixed;
+}
+.nav_left{
+margin-left: 9rem;
+float: left;
+padding-top: 15px;
+}
+
+.nav_left a{
+    margin: 0 16px 0 0;
+    padding: 15px 0;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    white-space: nowrap;
+    font-size: 20px;
+    color :#fff;
+    
+}
+
+.nav_right {
+    padding: 24px 16px;
+    text-align: right;
+    margin-right: 9rem;
+    float: right;
+    
+    
+}
+
+.nav_right a{
+    color: blanchedalmond;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+    margin-left:30px;
+
+}
+
+.home_page{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-clean-blog/assets/img/home-bg.jpg);
+    padding-bottom: 210px;
+    padding-top: 150px;
+    text-align: center;
+    background-position: center;
+    background-size: 100%;
+
+}
+
+.home_page h1{
+    font-size: 80px;
+    margin: 0 0 8px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 5rem;
+    color: #fff;
+}
+
+.home_page span{
+    font-size: 24px;
+    margin: 10px 0 0;
+    color: #fff;
+}
+
+.text_page{
+    text-align: justify;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.text_page h2{
+font-size: 40px;
+margin-top: 60px;
+margin-bottom: 15px;
+}
+
+.text_page h3{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.text_page a{
+    color:black;
+    font-style: italic;
+}
+
+.text_page p{
+    color:gray ;
+    font-style: italic;
+}
+
+.text_dequel{
+    text-align: justify;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.text_dequel h2{
+    font-size: 40px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    }
+
+    .text_dequel a{
+        color:black;
+        font-style: italic;
+    }
+
+    .text_dequel p{
+        color:gray ;
+    font-style: italic;
+    }
+
+    .text_science{
+        text-align: justify;
+        width: 50%;
+        margin: 0 auto;
+
+    }
+
+    .text_science h2{
+        font-size: 40px;
+        margin-top: 60px;
+        margin-bottom: 15px;
+        }
+
+        .text_science h3{
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+  
+        .text_science a{
+            color:black;
+            font-style: italic;
+        }
+.text_science p{
+    color:gray ;
+    font-style: italic;
+}
+
+.alltext{
+   text-align: center; 
+    
+}
+.olderpost_button{
+    text-align: end;
+    margin-right: 400px;
+    margin-top:20px;
+    margin-bottom: 40px;
+}
+.olderpost_button a{
+
+    text-decoration:none;
+    ;padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    color: #fff;
+    background-color: #0085A1;
+    border-color: #0085A1; 
+}
+
+.ending p{
+    margin-top:60px ;
+    margin-bottom: 60px;
+   text-align: center;
+   color: gray;
+}
+
+h2:hover{
+    cursor: pointer;
+    color: cadetblue;
+    
+}
+
+h3:hover{
+cursor: pointer;
+color: cadetblue;
+}
+
+a:hover{
+    cursor: pointer;
+    color: cadetblue;
+}
+
+
+
+
